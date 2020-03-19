@@ -8,6 +8,7 @@ public class AwsPipelineExampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AwsPipelineExampleApplication.class, args);
+		System.out.println("hiii")
 	}
 
 }
